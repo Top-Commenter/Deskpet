@@ -1,0 +1,12 @@
+{
+  "form": "small",
+  "volume": 24,
+  "always_on_top": true,
+  "pet_scale": 0.5,
+  "position": [
+    1481,
+    787
+  ],
+  "show_lyrics": true,
+  "auto_play": false
+}
